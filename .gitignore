@@ -1,0 +1,47 @@
+﻿# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+# Environment
+.env
+.env.local
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+# OS
+.DS_Store
+Thumbs.db
+# Database
+*.db
+*.sqlite3
+# Logs
+*.log
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
+# Build
+dist/
+build/
+*.min.js
+*.min.css
+# Testing
+.coverage
+htmlcov/
+.pytest_cache/
+coverage/
+# Docker
+*.pid
